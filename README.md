@@ -16,3 +16,7 @@ This repository serves solely as a record of task completion for personal and pr
 
 ## Acknowledgements
 I extend my sincere gratitude to Tata Group for this invaluable opportunity to gain practical experience in data visualisation. The insights and knowledge acquired during the programme, facilitated through the Forage platform, will undoubtedly contribute to future endeavours in data-driven decision-making.
+
+## Completion Status
+**Completed**  
+Certificate Issued: [View Certificate](https://www.linkedin.com/in/ishansurdiofficial/)
